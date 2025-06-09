@@ -1,7 +1,7 @@
 # STANDARD OPERATING PROCEDURE (SOP PRIBADI)
 
 **Judul SOP:**  
-Prosedur Upload Konten Edukasi TikTok “tirta.notes”
+Prosedur Instalasi Software di Laptop/PC”
 
 **Nomor Dokumen:**  
 SOP-PRIBADI-001
@@ -10,7 +10,7 @@ SOP-PRIBADI-001
 05 Juni 2025
 
 **Disusun Oleh:**  
-Tirta Widi / tirta.notes
+Tirta Wihadi
 
 **Revisi ke-:**  
 0
